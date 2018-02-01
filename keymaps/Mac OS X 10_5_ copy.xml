@@ -12,9 +12,16 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -29,7 +36,23 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="Tool_External Tools_TSlint">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
