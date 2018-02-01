@@ -1,8 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="sief-back" />
-    <option name="defaultScopeName" value="sief-back" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="sief-back" />
-  </component>
-</application>
