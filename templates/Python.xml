@@ -1,0 +1,17 @@
+<templateSet group="Python">
+  <template name="unit" value="    def test_(self):&#10;        # Given&#10;&#10;        # When&#10;&#10;        # Then&#10;        self.assertEqual(actual, expected)" description="unit test template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="py" value="def test_():&#10;    # Given&#10;&#10;    # When&#10;&#10;    # Then&#10;    assert actual == expected" description="pytest template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="debug" value="import pdb;pdb.set_trace()" description="debugger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
