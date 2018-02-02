@@ -33,7 +33,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="GotoTest" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -64,6 +66,7 @@
   <action id="Tool_External Tools_TSlint">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
