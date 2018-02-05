@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="TSlint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/projects/aef-portail-employeur/node_modules/prettier-tslint/bin/prettier-tslint.js" />
-      <option name="PARAMETERS" value="fix $FilePathRelativeToProjectRoot$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-</toolSet>
