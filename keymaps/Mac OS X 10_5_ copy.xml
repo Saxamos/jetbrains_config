@@ -103,6 +103,9 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
+  <action id="MarkExcludeRoot">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -121,6 +124,7 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -146,6 +150,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
