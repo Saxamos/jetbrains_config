@@ -68,6 +68,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -129,7 +132,7 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="shift f" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
