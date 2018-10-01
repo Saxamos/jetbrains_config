@@ -171,4 +171,10 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
