@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff53ad0f-bd05-4ba7-b916-05e579397888" name="Copy of project-level server 'AWS'" url="http://ec2-34-253-36-107.eu-west-1.compute.amazonaws.com">
+        <fileTransfer host="ec2-34-253-36-107.eu-west-1.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/Desktop/FranceAI_Ireland.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
