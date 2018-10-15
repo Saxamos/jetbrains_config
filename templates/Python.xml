@@ -15,4 +15,11 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="pycl" value="class Test$test_class_name$:&#10;    def test_$test_name$(self):&#10;        # Given&#10;        expected = ''&#10;    &#10;        # When&#10;        result = $test_name$&#10;    &#10;        # Then&#10;        assert result == expected" description="Class of tests" toReformat="false" toShortenFQNames="true">
+    <variable name="test_class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="test_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
