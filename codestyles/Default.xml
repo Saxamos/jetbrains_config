@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="1" />
+    <option name="ARRAY_WRAPPING" value="0" />
+  </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -12,6 +16,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
