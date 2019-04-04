@@ -7,6 +7,7 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <Python>
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
   </Python>
   <codeStyleSettings language="HTML">
@@ -31,6 +32,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
