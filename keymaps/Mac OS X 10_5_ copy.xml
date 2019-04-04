@@ -81,6 +81,9 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FillParagraph">
+    <keyboard-shortcut first-keystroke="meta alt u_with_grave" />
+  </action>
   <action id="FindNext" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
