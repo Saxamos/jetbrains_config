@@ -95,6 +95,9 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift g" />
   </action>
+  <action id="Github.PullRequest.Branch.Create">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
