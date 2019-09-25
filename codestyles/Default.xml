@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <JSON>
-    <option name="ARRAY_WRAPPING" value="0" />
-  </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -14,6 +11,10 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
