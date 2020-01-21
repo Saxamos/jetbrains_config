@@ -5,6 +5,7 @@
       <mapping pattern="WORKSPACE" type="Native" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="Changelogs" type="PLAIN_TEXT" />
       <mapping pattern="black_seat_preprocessed_zoning_array" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
