@@ -5,12 +5,14 @@
       <mapping pattern="WORKSPACE" type="Native" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="Changelogs" type="PLAIN_TEXT" />
       <mapping pattern="black_seat_preprocessed_zoning_array" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="test_titanic.csv" type="PLAIN_TEXT" />
+      <mapping pattern="Procfie" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="test_v1_1_25" type="Python" />
       <mapping pattern="jk" type="Python" />
     </extensionMap>
