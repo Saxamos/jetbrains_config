@@ -14,7 +14,6 @@
       <mapping pattern="test_titanic.csv" type="PLAIN_TEXT" />
       <mapping pattern="Procfie" type="PLAIN_TEXT" />
       <mapping pattern="toto" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping pattern="test_v1_1_25" type="Python" />
       <mapping pattern="jk" type="Python" />
     </extensionMap>
