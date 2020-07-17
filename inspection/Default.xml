@@ -64,6 +64,8 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="bool.all" />
+        <option value="object.start_frame_time" />
+        <option value="object.*" />
       </list>
     </option>
   </inspection_tool>
