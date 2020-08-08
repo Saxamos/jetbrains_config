@@ -1,9 +1,0 @@
-<application>
-  <component name="ProtobufSettings">
-    <option name="includePaths">
-      <list>
-        <option value="$USER_HOME$/PycharmProjects/Aive/ai/music_spliter/data/out" />
-      </list>
-    </option>
-  </component>
-</application>
