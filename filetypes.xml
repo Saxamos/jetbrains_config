@@ -11,6 +11,7 @@
       <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="Procfie" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="black_seat_preprocessed_zoning_array" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
