@@ -14,6 +14,7 @@
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="black_seat_preprocessed_zoning_array" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="result_metadata.proto" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping pattern="jk" type="Python" />
       <mapping pattern="test_v1_1_25" type="Python" />
