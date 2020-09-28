@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="46">
+        <list size="50">
           <item index="0" class="java.lang.String" itemvalue="scikit_learn" />
           <item index="1" class="java.lang.String" itemvalue="pandas" />
           <item index="2" class="java.lang.String" itemvalue="ai-tfds" />
@@ -51,6 +51,10 @@
           <item index="43" class="java.lang.String" itemvalue="tensorboard" />
           <item index="44" class="java.lang.String" itemvalue="ffmpeg" />
           <item index="45" class="java.lang.String" itemvalue="ulid" />
+          <item index="46" class="java.lang.String" itemvalue="progress-bar" />
+          <item index="47" class="java.lang.String" itemvalue="tensorflow" />
+          <item index="48" class="java.lang.String" itemvalue="scenedetect" />
+          <item index="49" class="java.lang.String" itemvalue="ulid-py" />
         </list>
       </value>
     </option>
