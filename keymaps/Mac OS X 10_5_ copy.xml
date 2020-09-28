@@ -118,6 +118,9 @@
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="MarkSourceRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -174,6 +177,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="UnmarkRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
     <keyboard-shortcut first-keystroke="shift meta d" />
