@@ -1,18 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="76994665-2b81-4c43-a76b-835476e1cc4e" name="AWS" url="http://ec2-34-253-36-107.eu-west-1.compute.amazonaws.com">
-        <fileTransfer host="ec2-34-253-36-107.eu-west-1.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/Desktop/FranceAI_Ireland.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="f4846a49-477e-4011-8d3b-614a93366a42" name="root@172.16.2.40:22" url="http:///">
-        <fileTransfer host="172.16.2.40" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+      <webServer id="a343ef63-d611-482e-8607-ffed7657f71c" name="samuel_aive_com@34.83.151.242:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.83.151.242" port="22" sshConfigId="86b29851-a5a9-484b-8f84-dba5cf48d1f1" sshConfig="samuel_aive_com@34.83.151.242:22 key" keyPair="true" />
       </webServer>
     </option>
   </component>
