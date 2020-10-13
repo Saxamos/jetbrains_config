@@ -1,0 +1,12 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-34-253-36-107.eu-west-1.compute.amazonaws.com" id="29904ff1-caaa-4d14-beed-5c0e54ff7d04" keyPath="$USER_HOME$/Desktop/FranceAI_Ireland.pem" port="22" customName="AWS" nameFormat="CUSTOM">
+        <option name="customName" value="AWS" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="172.16.2.40" id="bec6d8e8-b966-4963-bb70-028881f4d099" port="22" customName="root@172.16.2.40:22" nameFormat="CUSTOM">
+        <option name="customName" value="root@172.16.2.40:22" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
