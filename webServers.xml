@@ -4,6 +4,9 @@
       <webServer id="a343ef63-d611-482e-8607-ffed7657f71c" name="samuel_aive_com@34.83.151.242:22" url="http:///">
         <fileTransfer accessType="SFTP" host="34.83.151.242" port="22" sshConfigId="86b29851-a5a9-484b-8f84-dba5cf48d1f1" sshConfig="samuel_aive_com@34.83.151.242:22 key" keyPair="true" />
       </webServer>
+      <webServer id="8dea3a37-9e86-48a8-ad8d-976509c5fe0a" name="samuel_aive_com@34.83.151.242:22 key">
+        <fileTransfer accessType="SFTP" host="34.83.151.242" port="22" sshConfigId="86b29851-a5a9-484b-8f84-dba5cf48d1f1" sshConfig="samuel_aive_com@34.83.151.242:22 key" keyPair="true" />
+      </webServer>
     </option>
   </component>
 </application>
