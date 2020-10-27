@@ -10,7 +10,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="50">
+        <list size="51">
           <item index="0" class="java.lang.String" itemvalue="scikit_learn" />
           <item index="1" class="java.lang.String" itemvalue="pandas" />
           <item index="2" class="java.lang.String" itemvalue="ai-tfds" />
@@ -61,6 +61,7 @@
           <item index="47" class="java.lang.String" itemvalue="tensorflow" />
           <item index="48" class="java.lang.String" itemvalue="scenedetect" />
           <item index="49" class="java.lang.String" itemvalue="ulid-py" />
+          <item index="50" class="java.lang.String" itemvalue="google" />
         </list>
       </value>
     </option>
@@ -73,6 +74,7 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredIdentifiers">
       <list>
