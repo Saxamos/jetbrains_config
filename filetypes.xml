@@ -3,8 +3,8 @@
     <ignoreFiles list="*$py.class;*.egg*;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.idea;.pytest_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="WORKSPACE" type="Native" />
-      <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="Changelogs" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="test_titanic.csv" type="PLAIN_TEXT" />
       <mapping pattern="Procfie" type="PLAIN_TEXT" />
       <mapping pattern="puzzle.txt" type="PLAIN_TEXT" />
