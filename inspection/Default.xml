@@ -10,7 +10,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="58">
+        <list size="59">
           <item index="0" class="java.lang.String" itemvalue="scikit_learn" />
           <item index="1" class="java.lang.String" itemvalue="pandas" />
           <item index="2" class="java.lang.String" itemvalue="ai-tfds" />
@@ -69,6 +69,7 @@
           <item index="55" class="java.lang.String" itemvalue="python-Levenshtein" />
           <item index="56" class="java.lang.String" itemvalue="pytesseract" />
           <item index="57" class="java.lang.String" itemvalue="stringdist" />
+          <item index="58" class="java.lang.String" itemvalue="scipy" />
         </list>
       </value>
     </option>
