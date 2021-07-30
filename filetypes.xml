@@ -13,6 +13,7 @@
       <mapping pattern="result_metadata.proto" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
+      <mapping pattern="in_msg" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="toto" type="PLAIN_TEXT" />
