@@ -5,20 +5,20 @@
       <mapping pattern="WORKSPACE" type="Native" />
       <mapping pattern="in_msg" type="PLAIN_TEXT" />
       <mapping pattern="toto" type="PLAIN_TEXT" />
+      <mapping pattern="black_seat_preprocessed_zoning_array" type="PLAIN_TEXT" />
+      <mapping pattern="puzzle.txt" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
-      <mapping pattern="Procfie" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="test_titanic.csv" type="PLAIN_TEXT" />
-      <mapping pattern="black_seat_preprocessed_zoning_array" type="PLAIN_TEXT" />
-      <mapping pattern="puzzle.txt" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
+      <mapping pattern="Procfie" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="result_metadata.proto" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="Changelogs" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="test_titanic.csv" type="PLAIN_TEXT" />
       <mapping ext="rock" type="PLAIN_TEXT" />
       <mapping pattern="jk" type="Python" />
       <mapping pattern="test_v1_1_25" type="Python" />

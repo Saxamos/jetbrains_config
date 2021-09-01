@@ -1,7 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myShellIntegration" value="false" />
-    <option name="myShellPath" value="/opt/homebrew/bin/fish" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
