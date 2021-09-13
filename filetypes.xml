@@ -23,6 +23,8 @@
       <mapping ext="rock" type="PLAIN_TEXT" />
       <mapping pattern="jk" type="Python" />
       <mapping pattern="test_v1_1_25" type="Python" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
+      <removed_mapping ext="env" approved="true" type="Env File" />
     </extensionMap>
   </component>
 </application>
