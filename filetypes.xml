@@ -25,6 +25,7 @@
       <mapping pattern="test_v1_1_25" type="Python" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
