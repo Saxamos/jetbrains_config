@@ -103,6 +103,9 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="IntroduceParameterObject">
@@ -147,6 +150,7 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
