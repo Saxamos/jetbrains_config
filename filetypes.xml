@@ -23,9 +23,11 @@
       <mapping ext="rock" type="PLAIN_TEXT" />
       <mapping pattern="jk" type="Python" />
       <mapping pattern="test_v1_1_25" type="Python" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="js" approved="true" type="JavaScript" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="networkbranding" approved="true" type="JSON" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
