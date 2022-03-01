@@ -32,6 +32,7 @@
       <removed_mapping ext="networkbranding" approved="true" type="JSON" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
