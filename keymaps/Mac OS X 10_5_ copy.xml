@@ -1,0 +1,206 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta ampersand" />
+  </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="ChooseRunConfiguration" />
+  <action id="CleanPyc">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta colon" />
+    <keyboard-shortcut first-keystroke="meta colon" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorChooseLookupItemReplace">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
+  <action id="FillParagraph" />
+  <action id="FindNext" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="shift g" />
+  </action>
+  <action id="Github.PullRequest.Branch.Create">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="IntroduceParameterObject">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="IpnbAddCellAboveAction" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
+  <action id="MarkExcludeRoot">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="MarkSourceRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
+  <action id="Tool_External Tools_isort">
+    <keyboard-shortcut first-keystroke="ctrl meta alt m" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="UnmarkRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
