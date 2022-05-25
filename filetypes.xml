@@ -21,6 +21,8 @@
       <mapping pattern="Changelogs" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="rock" type="PLAIN_TEXT" />
+      <mapping pattern="jk" type="Python" />
+      <mapping pattern="test_v1_1_25" type="Python" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="env" approved="true" type=".env file" />
@@ -34,8 +36,6 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <mapping pattern="jk" type="Python" />
-      <mapping pattern="test_v1_1_25" type="Python" />
     </extensionMap>
   </component>
 </application>
