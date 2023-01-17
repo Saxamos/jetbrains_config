@@ -11,7 +11,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="74">
+        <list size="77">
           <item index="0" class="java.lang.String" itemvalue="scikit_learn" />
           <item index="1" class="java.lang.String" itemvalue="pandas" />
           <item index="2" class="java.lang.String" itemvalue="ai-tfds" />
@@ -86,6 +86,9 @@
           <item index="71" class="java.lang.String" itemvalue="aipcli" />
           <item index="72" class="java.lang.String" itemvalue="aipforecasting" />
           <item index="73" class="java.lang.String" itemvalue="azureml-sdk" />
+          <item index="74" class="java.lang.String" itemvalue="azure-cosmosdb-table" />
+          <item index="75" class="java.lang.String" itemvalue="csv-diff" />
+          <item index="76" class="java.lang.String" itemvalue="openpyxl" />
         </list>
       </value>
     </option>
