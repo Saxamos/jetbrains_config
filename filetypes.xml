@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.egg*;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.idea;.pytest_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="_MIGRATIONS" type="AUTO_DETECTED" />
+      <mapping pattern="tes" type="AUTO_DETECTED" />
       <mapping pattern="notebooks" type="AUTO_DETECTED" />
       <mapping pattern="WORKSPACE" type="Native" />
       <mapping pattern="in_msg" type="PLAIN_TEXT" />
