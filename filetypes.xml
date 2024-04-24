@@ -5,6 +5,7 @@
       <mapping pattern="_MIGRATIONS" type="AUTO_DETECTED" />
       <mapping pattern="tes" type="AUTO_DETECTED" />
       <mapping pattern="notebooks" type="AUTO_DETECTED" />
+      <mapping pattern="aipscript" type="AUTO_DETECTED" />
       <mapping pattern="WORKSPACE" type="Native" />
       <mapping pattern="in_msg" type="PLAIN_TEXT" />
       <mapping pattern="toto" type="PLAIN_TEXT" />
