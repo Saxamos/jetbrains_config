@@ -123,6 +123,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="bool.all" />
+        <option value="app.core.models.migrations.data_migrations.r_2024_07_17_fetch_coordinates_for_saudi_wells.*" />
       </list>
     </option>
   </inspection_tool>
