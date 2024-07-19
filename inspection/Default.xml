@@ -13,7 +13,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="84">
+        <list size="86">
           <item index="0" class="java.lang.String" itemvalue="scikit_learn" />
           <item index="1" class="java.lang.String" itemvalue="pandas" />
           <item index="2" class="java.lang.String" itemvalue="ai-tfds" />
@@ -98,6 +98,8 @@
           <item index="81" class="java.lang.String" itemvalue="azure-multiapi-storage" />
           <item index="82" class="java.lang.String" itemvalue="azure-datalake-store" />
           <item index="83" class="java.lang.String" itemvalue="cookiecutter" />
+          <item index="84" class="java.lang.String" itemvalue="aipcli-adb" />
+          <item index="85" class="java.lang.String" itemvalue="setuptools" />
         </list>
       </value>
     </option>
